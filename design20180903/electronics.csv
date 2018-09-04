@@ -1,0 +1,9 @@
+Item,Quantity,Weight (g),Cost ($),Vendor,Description
+battery,1,36,,,
+motor,2,15,,,
+ESC,2,9,,,
+BEC,1,16,,,
+propeller,2,3,,,
+servos,4,9,,,
+wires,1,50,,,
+receiver,1,15,,,

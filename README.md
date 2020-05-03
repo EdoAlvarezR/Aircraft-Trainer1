@@ -1,2 +1,2 @@
-# MyTrainer1
-A very stable and easy take-off trainer airplane that can be used to gain piloting experience of conventional configurations.
+# Trainer 1
+A very stable and easy-to-takeoff trainer airplane that can be used to gain piloting experience in a conventional configuration.
